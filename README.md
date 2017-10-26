@@ -1,2 +1,4 @@
+![](https://i.imgur.com/AtBOTUh.png)
+
 # Pubmail
-Pubmail meta-repo
+This repo is for tracking issues on [Pubmail.io](https://www.pubmail.io). This is not (yet) a source respository.
