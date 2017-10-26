@@ -1,0 +1,2 @@
+# Pubmail
+Pubmail meta-repo
